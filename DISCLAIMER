@@ -1,0 +1,8 @@
+The HTML 'Application Manager' application is not a fully functional
+'Applications Store'. It is an HTML front-end that uses a REST API to
+manage applications hosted by a 'Package Server'. The 'Package Server'
+provides a list of applications available including some predefined
+application metadata such as version, description, screenshots, etc.
+There is no qualification or verification done on these applications and
+such 'Package Server' is not a service provided in any means and is not
+meant to be used in any kind of production environment.
