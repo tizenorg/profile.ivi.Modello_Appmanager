@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://com.intel.tizen/store" version="0.5.0" viewmodes="fullscreen">
 	<name>AppManager</name>
-	<tizen:application id="html5POC03.AppManager" package="html5POC03" required_version="2.1"/>
+	<tizen:application id="Modello003.AppManager" package="Modello003" required_version="2.1"/>
     <feature name="http://tizen.org/feature/network.wifi"/>
     <feature name="http://tizen.org/feature/network.telephony"/>
     <tizen:privilege name="http://tizen.org/privilege/application.launch"/>

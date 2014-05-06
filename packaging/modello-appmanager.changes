@@ -1,3 +1,6 @@
+* Tue May 06 2014 brianjjones <brian.j.jones@intel.com> accepted/tizen/ivi/20140409.182155@c377dff
+- Updated to work with Crosswalk.  TIVI-3075
+
 * Thu Apr 03 2014 brianjjones <brian.j.jones@intel.com> 43f85a9
 - Initial commit of Modello Appmanager app
 
