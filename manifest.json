@@ -1,6 +1,6 @@
 {
   "name": "Modello AppManager",
-  "version": "0.0.2",
+  "xwalk_version": "0.0.2",
   "app": {
     "launch":{
       "local_path": "index.html"
