@@ -7,7 +7,7 @@ INSTALL_FILES = $(PROJECT).wgt
 INSTALL_DIR = ${DESTDIR}/opt/usr/apps/.preinstallWidgets
 
 wgtPkg:
-	zip -r $(PROJECT).wgt config.xml css AppManagericon.png index.html js templates
+	zip -r $(PROJECT).wgt config.xml css AppManager_icon.png index.html js templates
 
 install:
 	@echo "Installing Appmanager, stand by..."

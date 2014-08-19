@@ -16,6 +16,6 @@
     <tizen:privilege name="http://tizen.org/privilege/bluetooth.spp" />
     <tizen:privilege name="http://tizen.org/privilege/bluetooth.gap" />
 	<content src="index.html"/>
-	<icon src="icon.png"/>
+	<icon src="AppManager_icon.png"/>
 	<access origin="*" subdomains="true"/>
 </widget>
