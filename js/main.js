@@ -144,7 +144,7 @@ function enhanceModelUrls(model) {
 function getAppIcon(appIconPath, callback) {
 	"use strict";
 	try {
-		tizen.filesystem.resolve(appIconPath, function (iconFile) {
+		tizen.filesystem.resolve("file://"+appIconPath, function (iconFile) {
 			callback(iconFile.fullPath);
 		}, function (error) {
 			callback(Config.defaultIcon);
